@@ -1,5 +1,3 @@
-***This project is currently abandoned***
-
 ## Walldrift (WebGL)  
 WebGL export of an Android game made with Unity.  
 *(Slightly older version)*  
